@@ -1,0 +1,7 @@
+Counter Strike- Global offensive e' un gioco FPS, ovvero un: First Personal Shooter.<br>
+Il gioco e' diviso da due squadre: terroristi e antiterroristi. <br>
+i terroristi devono innescare una bomba che quando essa sara' innescata dovranno difenderla <br>
+ed evitare che gli antiterroristi disinneschino la bomba prima dell'esplosione. <br>
+Breve sintesi della modalita' competitiva  si inizia a giocare una competitiva si diventa <br>
+terrorista oppure antiterrorista. non si puo' scegliere cosa diventare all'inizio ma ogni 15 round <br>
+si cambia. se sei terrorista, dopo i 15 round diventerai automaticamente anti-terrorista oppure terrorista, dipende da come parti. <br>
